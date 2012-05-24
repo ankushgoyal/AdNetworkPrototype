@@ -1,0 +1,1 @@
+document.write("<Iframe src=\"http://wizeapi.cloudfoundry.com/getPixels\" width=0px height=0px></Iframe>");
